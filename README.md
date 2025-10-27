@@ -2,6 +2,8 @@
 
 Bu, Windows üzerinde çalışan interaktif bir batch (toplu) script’tir.  
 Maya’nın yüklü sürümünden diğer sürümlere **shelf** ve **ikon** klasörlerini senkronize etmek için kullanılır (2020–2026 arası).
+Eğer Farklı scriptleriniz çalışmaz ise Documents\maya\2024- Orjinal dosyanız ise içindeki Mmaya.env dosyasını 
+diğer sürümlerin içine kopyalayınız ve 2024 üstünde calıştığınız tüm script ve pluginler otomatik calışacak çalışmayanları ise Windows/Settings/Plug-in Manager içinde açabilirsiniz
 
 ## Özellikler
 - Kullanıcının bilgisayarında hangi Maya sürümünün yüklü olduğunu sorar  
